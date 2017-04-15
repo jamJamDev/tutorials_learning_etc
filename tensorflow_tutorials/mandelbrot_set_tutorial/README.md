@@ -1,5 +1,5 @@
 Getting Started With TensorFlow Tutorial
-----------------------------------------
+========================================
 
 Moved onto the first tutorial from tensorflow's website, [Mandelbrot Set](https://www.tensorflow.org/tutorials/mandelbrot).
 
